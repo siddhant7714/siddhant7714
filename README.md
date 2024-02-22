@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Siddhant Singh Solanki</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Siddhant+Singh!;" />
+</h1>
+
+<h1 align="center">Hi 👋, I'm Siddhant Singh Solanki !</h1>
 <h3 align="center">Data Enthusiast | Data analyst | Data scientist | Gen-AI | Entrepreneurial spirit | Building the future of AI-powered businesses.</h3>
 
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
