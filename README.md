@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@siddhant2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@siddhant2025" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddhant singh solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant singh solanki" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/siddhant singh solanki](https://www.linkedin.com/in/siddhant-singh-solanki-8267a722a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_apphttps://www.linkedin.com/in/siddhant-singh-solanki-8267a722a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant singh solanki" height="30" width="40" /></a>
 <a href="https://kaggle.com/@siddhant8055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@siddhant8055" height="30" width="40" /></a>
 <a href="https://instagram.com/@siddhant_singh_7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@siddhant_singh_7007" height="30" width="40" /></a>
 </p>
